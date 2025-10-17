@@ -1,0 +1,8 @@
+{
+  "name": "jwt-inspector",
+  "version": "0.1.0",
+  "description": "Demo package for JWT-Inspector",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
